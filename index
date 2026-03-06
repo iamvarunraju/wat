@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DOCX Viewer</title>
+<style>
+body{
+    margin:0;
+    font-family: Arial;
+}
+iframe{
+    width:100%;
+    height:100vh;
+    border:none;
+}
+</style>
+</head>
+
+<body>
+
+<iframe src="WAT Record.docx"></iframe>
+
+</body>
+</html>
